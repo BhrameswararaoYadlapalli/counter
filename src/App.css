@@ -1,0 +1,25 @@
+.number {
+ display: flex;
+ background-color: lightblue;
+ justify-content: center;
+ align-items: center;
+ font-size: 100px;
+ height: 200px;}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;}
+.button {
+  font-size: 50px;
+  margin: 20px;
+  width: 200px;
+  height: 100px;
+  background-color: lightgreen;
+}
+.button:hover{
+  background-color: lightgray;
+  color: gray;
+  cursor: pointer;
+}
