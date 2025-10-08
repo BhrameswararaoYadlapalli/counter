@@ -1,6 +1,6 @@
 .number {
  display: flex;
- background-color: lightblue;
+ background-color:white;
  justify-content: center;
  align-items: center;
  font-size: 100px;
@@ -9,17 +9,18 @@
 .buttons {
   display: flex;
   justify-content: center;
-  align-items: center;
-  cursor: pointer;}
+  
+
 .button {
   font-size: 50px;
+  color: white;
   margin: 20px;
   width: 200px;
   height: 100px;
   background-color: lightgreen;
 }
 .button:hover{
-  background-color: lightgray;
-  color: gray;
+  background-color: rgb(32, 21, 21);
+  color: white ;
   cursor: pointer;
 }
