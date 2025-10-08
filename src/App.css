@@ -8,9 +8,8 @@
 
 .buttons {
   display: flex;
-  justify-content: center;
+  justify-content: center;}
   
-
 .button {
   font-size: 50px;
   color: white;

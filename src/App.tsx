@@ -10,6 +10,7 @@ function App() {
     </div>
     <div className="buttons">
         <button className="button" onClick={() =>setCount(count + 1)} > ClickMe </button>
+        <button className="button" onClick={() =>setCount(0)} > Reset </button>
     </div>
     </>
  
